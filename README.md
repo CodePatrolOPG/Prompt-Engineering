@@ -25,8 +25,6 @@ Copy and paste the text below directly into your Antigravity chat:
 - **7 Progressive Levels:** From clarity to complex chaining.
 - **The Boss Battle:** Test your skills against a real-world nightmare scenario.
 - **Pro Improver Mode:** A sandbox to instantly refactor your own prompts.
-- **Personalized Tutor:** Choose your vibe (Best Bud, Professor, or Coach).
 
 ## 🛠️ Requirements
 - Antigravity IDE
-- Node.js (for progress tracking)
