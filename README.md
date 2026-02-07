@@ -2,6 +2,8 @@
 
 Unlock your AI potential with a 15-minute high-intensity prompt engineering workout.
 
+![The Prompt Gym Demo](screenshot.png)
+
 ## 🚀 Instant Install (Antigravity Only)
 Copy and paste the text below directly into your Antigravity chat:
 
