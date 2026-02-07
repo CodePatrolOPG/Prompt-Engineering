@@ -1,0 +1,68 @@
+{
+    "total_time_estimate": "15 mins",
+    "levels": [
+        {
+            "id": "intro",
+            "title": "Level 0: Welcome to the Gym! 🏋️‍♂️",
+            "description": "The skill of the decade.",
+            "content_summary": "Welcome! You're about to learn the most valuable skill: Prompt Engineering.\n\n**Why it's huge:**\n- 🚀 **10x Power:** Do in seconds what took hours.\n- 🧠 **Smart Moves:** Clarify your thinking.\n- 💰 **Career Edge:** Be the person who 'gets' AI.\n\n**The Plan:** 7 levels, about 15 mins total. We save your name, but the rest is just us vibing in this chat! 🌊",
+            "challenge_type": "acknowledgment"
+        },
+        {
+            "id": "clear_direct",
+            "title": "Level 1: Be Clear & Direct",
+            "description": "Clear instructions = Clear results.",
+            "content_summary": "**The Concept:**\nTreat AI like a brilliant but literal newcomer. Give it context and specific rules.\n\n**Example:**\n❌ 'Write an email.' \n✅ 'Write a friendly 3-sentence email to John apologizing for a 2-day delay.'",
+            "challenge_type": "rewrite_prompt"
+        },
+        {
+            "id": "multishot",
+            "title": "Level 2: Multishot (Examples)",
+            "description": "Show, don't tell.",
+            "content_summary": "**The Concept:**\nGive 2-3 examples of the format you want. The AI will copy the pattern perfectly.\n\n**Example:**\nInput: 'Happy' -> Output: '😊'\nInput: 'Sad' -> Output: '😢'",
+            "challenge_type": "create_multishot"
+        },
+        {
+            "id": "chain_of_thought",
+            "title": "Level 3: Let It Think",
+            "description": "Don't rush the math.",
+            "content_summary": "**The Concept:**\nAsk the AI to 'Think step-by-step'. It prevents 'hallucinations' in logic or math.",
+            "challenge_type": "logic_reasoning"
+        },
+        {
+            "id": "xml_tags",
+            "title": "Level 4: XML Tags",
+            "description": "Bowl your ingredients.",
+            "content_summary": "**The Concept:**\nUse tags like `<text></text>` to separate data from instructions. Keeps things clean.",
+            "challenge_type": "structure_data"
+        },
+        {
+            "id": "system_prompts",
+            "title": "Level 5: Roleplay",
+            "description": "Pick a pro.",
+            "content_summary": "**The Concept:**\n'You are a Senior Architect...' sets the entire tone and quality level.",
+            "challenge_type": "persona_creation"
+        },
+        {
+            "id": "chain_prompts",
+            "title": "Level 6: Chaining Prompts",
+            "description": "Divide and conquer.",
+            "content_summary": "**The Concept:**\nBreak big tasks into small prompts. Step 1: Outline. Step 2: Draft. Step 3: Polish.",
+            "challenge_type": "workflow_design"
+        },
+        {
+            "id": "boss_battle",
+            "title": "Level 7: 👹 THE BOSS BATTLE",
+            "description": "The Final Test.",
+            "content_summary": "**The Challenge:**\nYou are the Lead AI Architect for a startup. You need to build a prompt that handles a **Messy Customer Complaint**. \n\n**Requirements:**\n1. Use a **System Persona** (Lead Support Agent).\n2. Use **XML Tags** to isolate the customer's text.\n3. Use **Chain of Thought** to analyze the emotional state and technical issue separately before replying.\n\nCombine everything you've learned into one Master Prompt!",
+            "challenge_type": "boss_battle"
+        },
+        {
+            "id": "graduation",
+            "title": "Level 8: 🎓 GRADUATION",
+            "description": "You made it!",
+            "content_summary": "Congratulations, Vadim! You have mastered the core of Prompt Engineering.\n\nYour certificate is being generated now...",
+            "challenge_type": "reward"
+        }
+    ]
+}
